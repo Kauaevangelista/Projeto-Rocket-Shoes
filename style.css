@@ -741,7 +741,7 @@ body {
 
 @media (max-width: 425px) {
   body {
-    height: 330vh;
+    height: 310vh;
   }
 
   .container {
@@ -773,6 +773,10 @@ body {
     margin-left: -9%;
   }
 
+  .search {
+    width: 80%;
+  }
+
   .value-container {
     width: 100vw;
   }
@@ -795,7 +799,7 @@ body {
   .images {
     width: 95vw;
     margin: 0 auto;
-    height: 115vh;
+    height: 108vh;
   }
 
   .sneaker-image-big {
@@ -881,7 +885,7 @@ body {
 
   iframe {
     width: 90vw;
-    height: 40vh;
+    height: 30vh;
     margin: 0 auto 4%;
   }
 
@@ -892,7 +896,7 @@ body {
 
 @media (max-width: 320px) {
   body {
-    height: 330vh;
+    height: 315vh;
     overflow-x: hidden;
   }
 
@@ -1037,7 +1041,7 @@ body {
 
   iframe {
     width: 90vw;
-    height: 40vh;
+    height: 30vh;
     margin: 0 auto 4%;
   }
 
